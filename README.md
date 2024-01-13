@@ -13,10 +13,10 @@ Esta parte es opcional, solamente si el usuario desea subir imágenes que tenga 
 En esta sección se prueban algunas imágenes que se encuentran por default en la carpeta de Github para pruebas, sin embargo el usuario puede realizar camios en el path, dando la dirección de la carpeta donde contiene las imágenes que requiere probar
 7. Imágenes que puede subir el usuario
 Para esta sección el usuario es libre de subir fotografías a la carpeta de Collab y probar imágenes individuales.
-  Paso 1. Subir imagen a la carpeta	
-  Paso 2. Copiar la ruta de acceso, donde esta guardada la imagen.
-  Paso 3. Pegar la ruta de acceso en la parte que dice path
-  Paso 4. Dar run a la sección. 
+Paso 1. Subir imagen a la carpeta
+Paso 2. Copiar la ruta de acceso, donde esta guardada la imagen.
+Paso 3. Pegar la ruta de acceso en la parte que dice path
+Paso 4. Dar run a la sección. 
 
  	 
 
